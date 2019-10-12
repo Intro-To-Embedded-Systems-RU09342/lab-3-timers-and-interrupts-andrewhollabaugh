@@ -1,8 +1,8 @@
 /*
  * Timer blink program for MSP430FR6989
  *
- * Created: 10/9/19
- * Last Edited: 10/9/19
+ * Created: 9/21/19
+ * Last Edited: 9/22/19
  * Author: Andrew Hollabaugh
  */
 

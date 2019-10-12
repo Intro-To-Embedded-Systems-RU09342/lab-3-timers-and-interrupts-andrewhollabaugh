@@ -1,8 +1,8 @@
 /*
  * Timer blink program for MSP430G2553
  *
- * Created: 10/2/19
- * Last Edited: 10/2/19
+ * Created: 9/22/19
+ * Last Edited: 9/22/19
  * Author: Andrew Hollabaugh
  */
 
